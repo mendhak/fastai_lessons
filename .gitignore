@@ -1,4 +1,6 @@
-*.jpg
+*.[jJ][pP][gG]
 *.jpeg
 *.png
 bird_or_not/
+*.pkl
+*.pth
