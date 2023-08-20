@@ -4,3 +4,6 @@
 bird_or_not/
 *.pkl
 *.pth
+
+us-patent-phrase-to-phrase-matching
+outputs/
